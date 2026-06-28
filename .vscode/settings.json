@@ -1,0 +1,18 @@
+{
+  "cSpell.language": "ca,en",
+  "editor.rulers": [
+    80
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "always",
+    "source.fixAll.shellcheck": "explicit"
+  },
+  "[markdown]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.markdownlint": "always"
+    },
+  }
+}
